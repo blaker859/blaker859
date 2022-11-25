@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blaker859
-- 👀 I’m interested in Data and Algorithms
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web Development and Trading Algorithms
+- 🌱 I’m currently learning Java and Angular
 
 <!---
 blaker859/blaker859 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
