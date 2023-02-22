@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @blaker859
-- 👀 I’m interested in Web Development and Trading Algorithms
-- 🌱 I’m currently learning React Native and Python
+
 
 <!---
 blaker859/blaker859 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
